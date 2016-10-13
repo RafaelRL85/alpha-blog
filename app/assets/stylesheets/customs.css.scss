@@ -89,6 +89,24 @@ footer ul {
   padding: 0;
 }
 
+
+.badge {
+  text-shadow: #730E15;
+  background-color: #2E2F30;
+  text-emphasis-color: #666666;
+  letter-spacing: -1px;
+  font-weight: bolder;
+}
+
+.badge a {
+  color: #E9E9E9;
+  text-decoration: #ff0814;
+}
+
+.input_checkbox input {
+  width: auto !important;
+}
+
 .description {
   margin-top: 0;
 }
